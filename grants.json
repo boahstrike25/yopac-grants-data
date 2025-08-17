@@ -1,5 +1,52 @@
 [
   {
+    "title": "AmeriCorps State and National Grants",
+    "org": "AmeriCorps",
+    "amount": "$100,000–$500,000",
+    "deadline": "2025-11-01",
+    "region": "USA",
+    "apply_url": "https://americorps.gov/funding-opportunity/americorps-state-and-national-grants",
+    "summary": "Funds organizations engaging Americans in service."
+  },
+  {
+    "title": "UNICEF Innovation Fund – Education & Digital Learning",
+    "org": "UNICEF",
+    "amount": "Up to $100,000 equity-free",
+    "deadline": "2025-09-30",
+    "region": "Global",
+    "apply_url": "https://www.unicef.org/innovation/innovation-fund",
+    "summary": "Backs open-source solutions improving learning."
+  },
+  {
+    "title": "EPA Environmental Education Grants",
+    "org": "U.S. Environmental Protection Agency (EPA)",
+    "amount": "$50,000–$100,000",
+    "deadline": "2025-11-01",
+    "region": "USA",
+    "apply_url": "https://www.epa.gov/education/environmental-education-ee-grants",
+    "summary": "Supports environmental stewardship and education."
+  },
+  {
+    "title": "Horizon Europe – Global Health Research",
+    "org": "European Commission – Horizon Europe",
+    "amount": "Up to €5,000,000",
+    "deadline": "2025-10-15",
+    "region": "Europe (Multi-country)",
+    "apply_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/",
+    "summary": "Transnational R&I tackling global health challenges."
+  },
+  {
+    "title": "UK Aid Direct – Community Partnership Grants",
+    "org": "FCDO (UK Aid Direct)",
+    "amount": "£50,000–£250,000",
+    "deadline": "2025-08-31",
+    "region": "ODA-eligible countries",
+    "apply_url": "https://www.ukaiddirect.org/",
+    "summary": "Supports smaller CSOs to reduce poverty."
+  }
+]
+[
+  {
     "title": "Grant Title",
     "org": "Funder Name",
     "amount": "Up to $250,000",
