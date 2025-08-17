@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Grant Title",
+    "org": "Funder Name",
+    "amount": "Up to $250,000",
+    "deadline": "2025-12-31",
+    "region": "USA | Global | Region Name",
+    "apply_url": "https://official-portal.example/apply",
+    "summary": "Short description of the opportunity."
+  }
+]
